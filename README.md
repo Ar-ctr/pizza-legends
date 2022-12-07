@@ -1,2 +1,2 @@
 # pizza-legends
- Meu primeiro jogo
+ Primeiro jogo
